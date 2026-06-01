@@ -1,0 +1,313 @@
+{
+  "business": {
+    "name": "Rhythm Hair & Beauty Care",
+    "category": "Beauty Parlour",
+    "address": "\nShop no.41, ICB FLORA, opp. Auda garden, nr. S.G.highway, Gota, Ahmedabad, Gujarat 382481",
+    "phone": "\n063536 99709",
+    "email": "",
+    "website": "",
+    "mapUrl": "https://www.google.com/maps/place/Rhythm+Hair+%26+Beauty+Care/@23.1017326,72.539644,17z/data=!3m1!4b1!4m6!3m5!1s0x395e837c62d869bb:0x559f5d7f621f356b!8m2!3d23.1017326!4d72.539644!16s%2Fg%2F11nsm_6yl5?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+    "latitude": "23.1017326",
+    "longitude": "72.539644",
+    "rating": "",
+    "reviewsCount": "280",
+    "openingHours": "Show open hours for the week",
+    "logo": null,
+    "images": [
+      "/images/gmap_1780321153293_1.jpg",
+      "/images/gmap_1780321153317_2.jpg",
+      "/images/gmap_1780321153338_3.jpg",
+      "/images/gmap_1780321153360_4.jpg",
+      "/images/gmap_1780321153378_5.jpg",
+      "/images/gmap_1780321153421_6.jpg",
+      "/images/gmap_1780321153446_7.jpg",
+      "/images/gmap_1780321153273_0.jpg"
+    ],
+    "description": "",
+    "socials": {}
+  },
+  "content": {
+    "hero": {
+      "headline": "Your Beauty Rhythm Starts Here",
+      "subheadline": "In the heart of Gota's vibrant ICB Flora, we craft personalized beauty experiences that celebrate your unique style. Every visit becomes a moment of transformation and self-discovery.",
+      "cta": "Book Appointment",
+      "ctaSecondary": "Call Now"
+    },
+    "about": {
+      "title": "Where Beauty Finds Its Beat",
+      "story": "Nestled in Shop no.41 of ICB Flora, Rhythm Hair & Beauty Care has become Gota's sanctuary for authentic beauty transformations. We believe every person carries their own unique rhythm, and our role is to help you express it through expertly crafted hair and beauty services. With 280 clients trusting us with their beauty journey, we've learned that true elegance comes from understanding each individual's personal style.",
+      "highlights": [
+        {
+          "icon": "✨",
+          "title": "Personalized Beauty Consultations",
+          "description": "We listen to your vision and create looks that enhance your natural beauty"
+        },
+        {
+          "icon": "🎨",
+          "title": "Artistic Color Mastery",
+          "description": "From subtle highlights to bold transformations, we paint with precision"
+        },
+        {
+          "icon": "💫",
+          "title": "Relaxing Atmosphere",
+          "description": "Your beauty session becomes a peaceful escape from daily life"
+        },
+        {
+          "icon": "🌸",
+          "title": "Premium Product Selection",
+          "description": "We choose only the finest products that nourish while they beautify"
+        }
+      ]
+    },
+    "services": {
+      "title": "Crafting Your Perfect Look",
+      "items": [
+        {
+          "icon": "✂️",
+          "title": "Signature Hair Styling",
+          "description": "From precision cuts to elegant updos, we shape your hair to reflect your personality and lifestyle."
+        },
+        {
+          "icon": "🎨",
+          "title": "Hair Color Artistry",
+          "description": "Whether you desire subtle dimension or dramatic change, our color expertise brings your vision to life."
+        },
+        {
+          "icon": "💆",
+          "title": "Rejuvenating Facials",
+          "description": "Customized skincare treatments that leave your complexion glowing with health and vitality."
+        },
+        {
+          "icon": "💄",
+          "title": "Makeup Artistry",
+          "description": "Professional makeup application for special occasions or everyday elegance that enhances your natural features."
+        },
+        {
+          "icon": "🌿",
+          "title": "Hair Treatments",
+          "description": "Deep conditioning and repair treatments that restore your hair's strength, shine, and natural beauty."
+        },
+        {
+          "icon": "💅",
+          "title": "Nail Care",
+          "description": "Complete manicure and pedicure services that add the perfect finishing touch to your polished look."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Stories of Transformation",
+      "items": [
+        {
+          "name": "Priya Sharma",
+          "role": "Regular Client",
+          "text": "The team at Rhythm truly understands my hair texture and always delivers exactly what I envision. I leave feeling confident and beautiful every time.",
+          "rating": 5
+        },
+        {
+          "name": "Meera Patel",
+          "role": "Bridal Client",
+          "text": "They made my wedding day absolutely perfect. The attention to detail and the way they listened to my ideas made all the difference. I felt like a queen.",
+          "rating": 5
+        },
+        {
+          "name": "Anjali Desai",
+          "role": "Color Client",
+          "text": "I was nervous about trying a new color, but they guided me perfectly. The results exceeded my expectations and I receive compliments everywhere I go.",
+          "rating": 5
+        }
+      ]
+    },
+    "faq": {
+      "title": "Your Beauty Questions Answered",
+      "items": [
+        {
+          "question": "How do I book an appointment at your Gota location?",
+          "answer": "Simply call us at 063536 99709 or visit us at Shop no.41, ICB Flora. We recommend booking in advance to secure your preferred time slot."
+        },
+        {
+          "question": "What should I expect during my first visit to Rhythm Hair & Beauty Care?",
+          "answer": "We begin with a personal consultation to understand your style preferences, hair type, and beauty goals. This helps us create a customized experience just for you."
+        },
+        {
+          "question": "Do you offer bridal and special occasion packages?",
+          "answer": "Yes, we specialize in bridal makeup and styling. We offer complete packages including hair, makeup, and beauty treatments to make your special day unforgettable."
+        },
+        {
+          "question": "How long do typical hair color treatments take?",
+          "answer": "Color services typically range from 2-4 hours depending on the complexity of your desired look. We'll provide an accurate time estimate during your consultation."
+        },
+        {
+          "question": "What hair and beauty products do you use?",
+          "answer": "We carefully select premium professional products that are gentle yet effective. Our team can recommend the best products for your specific hair and skin type."
+        },
+        {
+          "question": "Is parking available near your ICB Flora location?",
+          "answer": "Yes, ICB Flora provides convenient parking facilities. We're easily accessible from S.G. Highway, making your visit comfortable and stress-free."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Begin Your Beauty Journey",
+      "subtitle": "Visit our welcoming space in Gota where your transformation awaits"
+    },
+    "cta": {
+      "title": "Ready to Discover Your Perfect Look?",
+      "subtitle": "Join hundreds of satisfied clients who trust us with their beauty",
+      "button": "Book Your Session"
+    },
+    "meta": {
+      "title": "Rhythm Hair & Beauty Care - Premium Beauty Parlour in Gota, Ahmedabad",
+      "description": "Expert hair styling, color, facials & beauty treatments at Rhythm Hair & Beauty Care in ICB Flora, Gota. Book your appointment today!"
+    }
+  },
+  "pages": [
+    {
+      "slug": "",
+      "title": "Home",
+      "type": "home",
+      "sections": [
+        {
+          "id": "hero",
+          "type": "hero",
+          "variant": "split"
+        },
+        {
+          "id": "services-preview",
+          "type": "grid",
+          "columns": 3,
+          "variant": "cards"
+        },
+        {
+          "id": "gallery-preview",
+          "type": "gallery",
+          "variant": "grid"
+        },
+        {
+          "id": "testimonials-preview",
+          "type": "testimonials",
+          "variant": "cards"
+        },
+        {
+          "id": "home-cta",
+          "type": "cta",
+          "variant": "banner"
+        }
+      ]
+    },
+    {
+      "slug": "about",
+      "title": "Where Beauty Finds Its Beat",
+      "type": "about",
+      "sections": [
+        {
+          "id": "about-full",
+          "type": "narrative",
+          "variant": "split-image"
+        },
+        {
+          "id": "highlights",
+          "type": "grid",
+          "columns": 2,
+          "variant": "compact"
+        }
+      ]
+    },
+    {
+      "slug": "services",
+      "title": "Crafting Your Perfect Look",
+      "type": "services",
+      "sections": [
+        {
+          "id": "services-full",
+          "type": "grid",
+          "columns": 3,
+          "variant": "detailed"
+        }
+      ]
+    },
+    {
+      "slug": "gallery",
+      "title": "Gallery",
+      "type": "gallery",
+      "sections": [
+        {
+          "id": "gallery-full",
+          "type": "gallery",
+          "variant": "masonry"
+        }
+      ]
+    },
+    {
+      "slug": "contact",
+      "title": "Begin Your Beauty Journey",
+      "type": "contact",
+      "sections": [
+        {
+          "id": "contact-full",
+          "type": "contact",
+          "variant": "split-map"
+        }
+      ]
+    }
+  ],
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "label": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "design": {
+    "colors": {
+      "primary": "#be185d",
+      "primaryHover": "#9d174d",
+      "secondary": "#b8860b",
+      "accent": "#f59e0b",
+      "background": "#fefcfa",
+      "surface": "#fdf2f8",
+      "text": "#1f2937",
+      "textMuted": "#6b7280",
+      "border": "#f3e8ff"
+    },
+    "typography": {
+      "headingFont": "Playfair Display",
+      "bodyFont": "Jost",
+      "headingWeight": 600,
+      "bodyWeight": 400,
+      "baseSize": 16,
+      "scale": 1.25,
+      "lineHeight": 1.7
+    },
+    "spacing": {
+      "sectionPadding": "80px",
+      "containerWidth": "1100px",
+      "cardPadding": "32px",
+      "gap": "24px"
+    },
+    "radius": {
+      "button": "16px",
+      "card": "16px",
+      "image": "12px"
+    },
+    "shadows": {
+      "card": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
+      "cardHover": "0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)"
+    },
+    "darkMode": false
+  }
+}

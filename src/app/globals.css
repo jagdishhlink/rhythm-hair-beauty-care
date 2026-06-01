@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #be185d;
+  --color-secondary: #b8860b;
+  --color-accent: #f59e0b;
+  --color-bg: #fefcfa;
+  --color-text: #1f2937;
+  --color-muted: #6b7280;
+  --color-surface: #fdf2f8;
+  --color-border: #f3e8ff;
+  --font-heading: "Playfair Display", sans-serif;
+  --font-body: "Jost", sans-serif;
+  --radius-button: 16px;
+  --radius-card: 16px;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+}
+
+::selection {
+  background-color: var(--color-primary);
+  color: white;
+}
